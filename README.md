@@ -9,7 +9,7 @@ With this application you can add items which you are dreaming about, but you do
 This application was made with [Devslopes][link1]'s help.
 
 ### What did I learn? ###
-..
+
 #### We practised: 🏋 ####
 
 - How **Core Data works** and **how to use it**.
