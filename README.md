@@ -1,2 +1,2 @@
 # dreamLister
-Deepening my knowledge with core data, NSFetchedResultsController, UISegmentedControl etc. 👩🏻‍💻
+Deepening my knowledge with Core Data, NSFetchedResultsController, UISegmentedControl etc. 👩🏻‍💻
